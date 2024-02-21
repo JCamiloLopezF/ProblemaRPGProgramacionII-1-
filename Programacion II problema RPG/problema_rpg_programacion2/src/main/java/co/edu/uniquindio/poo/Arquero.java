@@ -11,5 +11,5 @@ public class Arquero extends Personaje{
         this.precision = precision;
     }
 
-    public void 
+    
 }
